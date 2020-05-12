@@ -1,0 +1,53 @@
+div{
+    color: red;
+}
+.color_text_2{
+    color: green;
+}
+#id3{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    color: aqua;
+}
+#id1{
+    color: blue;
+    background: url(../img/1.png)
+}
+* {
+    margin: 0;
+}
+.shtuka{
+    height: 200px; 
+    width: 200px;
+    overflow: auto;
+    padding-left: 15px;
+}
+.cross {
+     cursor: crosshair; 
+}
+body {
+    background-color: lightblue;
+} 
+h1 {
+    color: white;
+    text-align: center;
+}
+h2,h3,h4 {
+    font-size: 300%;
+}
+.color_text {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+#border {
+    border-style: dotted;
+    border-top-color: #ff0000;
+    border-bottom-color: blueviolet;
+    border-width: 5px;
+}
